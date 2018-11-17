@@ -1,0 +1,12 @@
+.websiteTitle {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.contentContainer {
+  width: 50rem;
+  height: 50rem;
+  background: lightblue;
+  border: 1px solid black;
+  margin: auto;
+}
